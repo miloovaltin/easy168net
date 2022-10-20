@@ -1,0 +1,17 @@
+
+{
+"name": "easy168net",
+"theme": "easy168 net",
+"version": "8.9.3",
+"description": "easy168 net สมัครสมาชิกเว็บพนันเว็บตรง ไม่มีขั้นต่ำ แจกเงินเครดิตฟรี",
+"keywords": [
+"easy168 net",
+"easy168 net เครดิตฟรี",
+"easy168 net ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/easy168net",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
